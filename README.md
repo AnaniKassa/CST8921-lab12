@@ -7,7 +7,7 @@
 Tasks
 Create the following resources in Azure Portal:
 1.	Resource Group: rg-ai-search-lab
-![alt text](C:\Users\kassa\GIT_AC_Level2\CST8921-lab12\1-1.PNG)
+![alt text](./1-1.PNG)
 2.	Azure AI Search service: srch-rag-lab
 CST8921-lab12/1-2.PNG
 3.	Pricing tier: choose a lab-appropriate tier
