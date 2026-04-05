@@ -57,7 +57,7 @@ Create the following resources in Azure Portal:
 ![alt text](./4-1.PNG)
 
 ### Module 6 — Generate Embeddings and Load Documents
-1.	Read document text
+1.	Read document text  
 2.	Split into chunks  
 
 ![alt text](./6-0-0.PNG)
@@ -69,11 +69,14 @@ Create the following resources in Azure Portal:
 ![alt text](./6-1.PNG)
 
 ### Module 7 — Run Vector and Hybrid Search Queries
-A. Keyword search
+A. Keyword search  
+
 ![alt text](./7-0-1.PNG)
-B. Vector search
+B. Vector search  
+
 ![alt text](./7-0-2.PNG)
-C. Hybrid search
+C. Hybrid search  
+
 ![alt text](./7-0-3.PNG)
 - Ouputs  
 
